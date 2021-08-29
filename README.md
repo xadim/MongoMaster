@@ -1,2 +1,2 @@
 # Mongo
-The repository contains code to connect mongodb
+Simple and clean classes to connect java application with mongodb.
